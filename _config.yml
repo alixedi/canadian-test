@@ -23,7 +23,7 @@ app_icon: assets/logo.png
 app_name: Canadian Citizenship Untangled
 
 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price: £0.99
+app_price: FREE
 app_description: Pass first time. Updated for 2021.
 
 # Set to true to show a smart app banner at top of page on mobile devices.
@@ -46,8 +46,8 @@ youtube_username:
 # Feature List
 features:
 
-  - title: More than 300 exclusive questions
-    description: The app has more than 300 carefully crafted questions, their answers & detailed write-ups that explain the answers.
+  - title: More than 600 exclusive questions
+    description: The app has more than 600 carefully crafted questions, their answers & detailed write-ups that explain the answers.
     fontawesome_icon_name: list
 
   - title: Privacy first
